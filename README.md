@@ -15,11 +15,18 @@ Lahman-Baseball-Database-Analysis
 ├── data/
 ├── data_import/
 ├── analysis_queries/
-├── README.md
+└── README.md
 ```
 
-
-
 #### Dependencies
-Any version of SQL. Its a lot of data so excel will likely be slow. There is also a lot of incomplete rows so some data cleaning and/or filtering is needed
+* MySQL: Any SQL will work with syntax adjustments
+* Excel: For CSV import in Workbench, or other tools
+
+##### Note: The Dataset is large and will be slow if used in Excel. Filtering or cleaning is required to get rid of incomplete rows or false data.
+
+#### Purpose
+I did this project for the following reasons:
+ * To strengthen querying skills in SQL
+ * Generate real date and gain insights into the history of baseball
+
 
