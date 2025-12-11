@@ -9,11 +9,17 @@ The analysis is organized into five categories:
   * School & Geography Analysis: Player birthplace, colleges attended, and geographic impact on the MLB.
   * Team Analysis: Franchise-level performance patterns, roster composition, and multi-season trends.
 
-#### Files
-create_db: SQL code that create the date structure and database
-data: SQL code to input date into the database tables
-csv_data: the data used in the analysis in csv form
-data_analysis_queries: The queries I used for EDA
+```
+Lahman-Baseball-Database-Analysis
+├── create_db/
+├── data/
+├── data_import/
+├── analysis_queries/
+├── README.md
+└── .gitignore
+```
+
+
 
 #### Dependencies
 Any version of SQL. Its a lot of data so excel will likely be slow. There is also a lot of incomplete rows so some data cleaning and/or filtering is needed
