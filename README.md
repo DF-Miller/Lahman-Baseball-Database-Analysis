@@ -19,8 +19,8 @@ Lahman-Baseball-Database-Analysis
 ```
 
 #### Dependencies
-* MySQL: Any SQL will work with syntax adjustments
-* Excel: For CSV import in Workbench, or other tools
+* MySQL: Any SQL will work with necessary syntax adjustments
+* Excel or other tools to view CSV's and for import
 
 ##### Note: The Dataset is large and will be slow if used in Excel. Filtering or cleaning is required to get rid of incomplete rows or false data.
 
