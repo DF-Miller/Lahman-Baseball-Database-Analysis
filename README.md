@@ -16,7 +16,6 @@ Lahman-Baseball-Database-Analysis
 ├── data_import/
 ├── analysis_queries/
 ├── README.md
-└── .gitignore
 ```
 
 
