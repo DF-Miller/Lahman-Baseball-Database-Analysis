@@ -14,7 +14,7 @@ Lahman-Baseball-Database-Analysis
 ├── create_db/
 ├── data/
 ├── data_import/
-├── analysis_queries/
+├── data_analysis_queries/
 └── README.md
 ```
 
